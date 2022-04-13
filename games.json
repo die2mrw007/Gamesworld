@@ -1,0 +1,1276 @@
+[
+  {
+    "status": "success",
+    "data": [
+      {
+        "categories": [
+          {
+            "id": 1,
+            "name": "Racing",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mTeaser.jpg?v=0.2-fa61e954"
+          },
+          {
+            "id": 2,
+            "name": "Bubbles",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CandyBubble_Teaser.jpg?v=0.2-fa61e954"
+          },
+          {
+            "id": 3,
+            "name": "Girls",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BabyLilyCare_Teaser.jpg?v=0.2-fa61e954"
+          },
+          {
+            "id": 4,
+            "name": "Multi Player",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/icon-256.png"
+          },
+          {
+            "id": 5,
+            "name": "Puzzle",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Train2048Teaser.jpg?v=0.2-fa61e954"
+          },
+          {
+            "id": 6,
+            "name": "Quiz & Brain Games",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/4.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Jump & Run",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JungleRunTeaser.jpg?v=0.2-fa61e954"
+          },
+          {
+            "id": 9,
+            "name": "Arcade",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/43/icon-256.png"
+          },
+	  {
+            "id": 10,
+            "name": "Shooting",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/31/icon-256.png"
+          },
+	  {
+            "id": 11,
+            "name": "Sports",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/27/icone.jpg"
+          }
+        ],
+        "games": [
+          {
+            "category_id": 1,
+            "category_name": "Racing",
+            "name": "Moto X3M Pool Party",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mPoolPartyTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/moto-x3m-pool-party"
+          },
+          {
+            "category_id": 1,
+            "category_name": "Racing",
+            "name": "Moto X3M",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mTeaser.jpg?v=0.2-89acc7bc",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/moto-x3m"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Adventure Drivers",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg?v=0.2-89acc7bc",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/adventure-drivers"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "High Hills",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/HighHillsTeaser.jpg?v=0.2-89acc7bc",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/high-hills"
+          },
+	  {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Fullspeed Racing",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/FullspeedRacing.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/fullspeedracing1/gameCode/index.html"
+          },
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Drag Racing Club",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DragRacingClubTeaser.jpg?v=0.2-89acc7bc",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/drag-racing-club"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Race Right",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RaceRightTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/race-right"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Biker Street",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BikerStreetTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/biker-street"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Highway Rider Extreme",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/HighwayRiderExtremeTeaser.jpg?v=0.2-89acc7bc",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/highway-rider-extreme"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Moto Fury",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoFuryTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/moto-fury"
+          },
+		
+	  {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Road Fury",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/roadfury.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/roadfury1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Scooter Xtreme",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/scooter-xtreme-3d.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/scooterxtreme1/gameCode/index.html"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Drift Cup Racing",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DriftCupRacingTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/drift-cup-racing"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Racing Monster Truck",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RacingMonsterTrucksTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/racing-monster-trucks"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Racing Cars",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RacingCarsTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/racing-cars"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Truck Trials",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TruckTrialsTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/truck-trials"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Thug Racer",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ThugRacerTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/thug-racer"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Endless Truck",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/EndlessTruckTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/endless-truck"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Rival Rush",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RivalRushTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/rival-rush"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Street Pursuit",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StreetPursuit_Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/street-pursuit"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Street Race Fury",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StreetRaceFuryTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/streetrace-fury"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "2Cars",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/2CarsTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/2cars"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Dont Crash",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DontCrashTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/dont-crash"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Speed Maniac",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SpeedManiacTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/speed-maniac"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Turbotastic",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TurbotasticTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/turbotastic"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Burnin Rubber",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BurninRubber_Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/burnin-rubber"
+          },
+
+          {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Speed Club Nitro",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SprintClubNitroTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/sprint-club-nitro"
+          },
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Fuzzies",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FuzziesTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/fuzzies"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Smarty Bubbles 2",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles2Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/smarty-bubbles-2"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Bubble Woods",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BubbleWoodsTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/bubble-woods"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Candy Bubble",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CandyBubble_Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/candybubbles1/gameCode/index.html"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Bubble Spirit",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BubbleSpirit_Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/bubble-spirit"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Kitty Bubbles",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KittyBubblesTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/kitty-bubbles"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Sea Bubble Shooter",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SeaBubbleShooterTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/sea-bubble-shooter"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Soccer Bubbles",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SoccerBubblesTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/soccer-bubbles"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Bubble Gems",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BubbleGemsTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/bubble-gems"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Bubble Shooter",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BubblesShooterTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/bubbles-shooter"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Bubble Hamster",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BubbleHamstersTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/bubble-hamsters"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Smarty Bubbles X-MAS",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubblesXmasTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/smarty-bubbles-xmas"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Orange Ranch",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OrangeRanchTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/orange-ranch"
+          },
+
+          {
+            "category_name": "Bubbles",
+            "category_id": 2,
+            "name": "Smarty Bubbles",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles20160620Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/smartybubbles1/gameCode/index.html"
+          },
+          {
+            "category_name": "Girls",
+            "category_id": 3,
+            "name": "Emergency Surgery",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/EmergencySurgeryTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/emergency-surgery"
+          },
+
+          {
+            "category_name": "Girls",
+            "category_id": 3,
+            "name": "Kawaii Chibi",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KawaiiChibiCreator_Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/kawaii-chibi-creator"
+          },
+          {
+            "category_name": "Girls",
+            "category_id": 3,
+            "name": "Baby Lily Care",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BabyLilyCare_Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/baby-lily-care"
+          },
+          {
+            "category_name": "Girls",
+            "category_id": 3,
+            "name": "Baby Lily Birthday",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BabyLilyBirthday_Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/baby-lily-birthday"
+          },
+          {
+            "category_name": "Girls",
+            "category_id": 3,
+            "name": "Baby Lily Sick Day",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BabyLilySickDayTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/baby-lily-sick-day"
+          },
+          {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Defly",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DeflyTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/defly"
+          },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Ludo Multiplayer",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/"
+          },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Ludo Legend",
+            "thumbnail": "https://i.pinimg.com/474x/34/0b/1d/340b1d46104470b261f5afc6f62319db.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/ludolegend/gameCode/index.html"
+          },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Classic Chess",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ChessClassicTeaser.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/chessclassic4/gameCode/index.html"
+          },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Carrom Clash",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/carromclash.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/carromclash1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Billiards Classic",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/8BallBilliardsClassicTeaser.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/billiardsclassic1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Snake And Ladders",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/snakesandladders.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
+          },
+          {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Train 2048",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Train2048Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/train2050/gameCode/index.html"
+          },
+          {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Giant 2048",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Giant2048Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/2048giant2/gameCode/index.html"
+          },
+          {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Brain Trainer",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BrainTrainerTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/braintrainer1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Bolly Beat",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/bollybeat.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/bollybeat1/gameCode/index.html"
+          },
+          {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Mahjong World",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MahjongWorldTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/mahjong-world"
+          },
+          {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Mahjong 3D",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Mahjong3dTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/mahjong3d5/gameCode/index.html"
+          },
+	  {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Mahjong Classic",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/mahjongclassic.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/mahjongclassic1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "99 Balls",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/99BallsTeaser.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/99balls3/gameCode/index.html"
+          },
+          {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "7 Words",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/7WordsTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/7-words"
+          },
+          {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Alien Quest",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AlienQuestTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/alien-quest"
+          },
+          {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Sweet Hungman",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SweetHangmanTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/sweet-hangman"
+          },
+          {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Geo Quiz EU",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GeoQuizEuropeTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/geo-quiz-europe"
+          },
+          {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Animal Quiz",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AnimalQuizChristmasTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/animal-quiz"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Word Search",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/wordsearch.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Word Detector",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WordDetectorTeaserB.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/worddetector1/gameCode/index.html"
+          },
+          {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Jungle Run",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JungleRunTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/jungle-run"
+          },
+
+          {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Banana Run",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BananaRun_Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/bananarun3/gameCode/index.html"
+          },
+
+          {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Outcome",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OutcomeTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/outcome"
+          },
+
+          {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Yeti Sensation",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/YetiSensationTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/yeti-sensation"
+          },
+
+          {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Greedy Rabbit",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GreedyRabbitTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/greedy-rabbit"
+          },
+          
+          {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "OM NOM RUN",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomRunTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/omnomrun1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Om Nom Connect Xmas",
+            "thumbnail": "https://imgs2.dab3games.com/om-nom-xmas455.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/omnomconnectxmas1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Tiger Run",
+            "thumbnail": "https://api.web.gamepix.com/assets/img/250/250/icon/tiger-run.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/tigerrun1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "T-Rex",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/trex.jpg",
+            "rating": 4,
+            "game_url": "https://livegame.show/games/trex_v3"
+          },
+          {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Bus Parking 3D",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BusParking3dTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/bus-parking-3d"
+          },
+          {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Cannon Balls 3D",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CannonBalls3dTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/cannonballs3d4/gameCode/index.html"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Rocket Road",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/RocketRoad.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/aktestrocketroad1/gameCode/index.html"
+          },
+          {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Dunk Brush",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DunkBrushTeaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/dunkbrush6/gameCode/index.html"
+          },
+          {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Perfect Piano",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PerfectPiano_Teaser.jpg?v=0.2-fa61e954",
+            "rating": 4,
+            "game_url": "https://play.famobi.com/perfect-piano"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Cake Slice Ninja",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/cakesliceninja.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/cakesliceupdate/gameCode/index.html"
+          },
+	  {
+            "category_name": "Shooting",
+            "category_id": 10,
+            "name": "Archer Hero",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/1/11.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/1/"
+          },
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Dribble Kings",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/2/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/2/"
+          },
+	  {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Moto Beach Ride",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/3/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/3/"
+          },
+	  {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Super 8 Race",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/4/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/4/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Grave Drive",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/5/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/5/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Alien Way",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/6/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/6/"
+          },
+	  {
+            "category_name": "Shooting",
+            "category_id": 10,
+            "name": "Arnie Attack",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/7/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/7/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Green Chick Jump",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/8/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/8/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Koby Jump Escape",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/9/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/9/"
+          },
+	  {
+            "category_name": "Girls",
+            "category_id": 3,
+            "name": "Night Dress",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/10/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/10/"
+          },
+	  {
+            "category_name": "Shooting",
+            "category_id": 10,
+            "name": "Soldier Way",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/11/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/11/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Crocofinity",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/13/icons/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/13/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Flight Sim",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/16/20.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/16/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Frogtastic",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/17/29.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/17/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Jump Ninja Hero",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/18/7.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/18/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Open Restaurant",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/20/2.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/20/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Quiz Game 2",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/4.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Tap Supermarket",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/23/10.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/23/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "The Sorcerer",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/24/40.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/24/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "TRZ Pop it",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/25/icons/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/25/"
+          },
+
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Penalty Kicks",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/27/icone.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/27/"
+          },
+	  {
+            "category_name": "Shooting",
+            "category_id": 10,
+            "name": "Zombie Shooter Classic",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/28/13.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/28/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Auto Platformer",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/29/36.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/29/"
+          },
+
+	  {
+            "category_name": "Shooting",
+            "category_id": 10,
+            "name": "City Hero",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/31/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/31/"
+          },
+	  {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Formula Drag",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/32/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/32/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Rob Runner",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/33/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/33/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Viking Way",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/34/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/34/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Wrecked",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/35/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/35/"
+          },
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Classic Bowling",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/36/25.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/36/"
+          },
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Basketball Master 2",
+            "thumbnail": "https://imgs2.dab3games.com/basketball-masters-game.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/basketballmaster4/gameCode/index.html"
+          },
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Freekick Football",
+            "thumbnail": "https://play-lh.googleusercontent.com/fX4QdbgqnyFKru0KtGUYwQVVo4Yo0xdkRfg1wvy6vUBYdiGOARaJcvOcLe2XDOyMoQ",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/freekickfootball1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Table Tennis",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TableTennis_WorldTour_Teaser.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/tabletennis1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Coloring Book",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/37/SAM/coloringbook_texture_1.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/37/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 10,
+            "name": "Crazy Parking",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/38/30.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/38/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Danger Cliffs",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/39/3.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/39/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Tank Wars",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/40/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/40/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Machine Carnage",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/41/33.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/41/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Electro",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/42/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/42/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Zombie Shooter",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/43/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/43/"
+          },
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Volleymal",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/44/37.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/44/"
+          },
+	  {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Sweet World",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/45/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/45/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Spot the Differences",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/46/9.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/46/"
+          },
+	  {
+            "category_name": "Shooting",
+            "category_id": 10,
+            "name": "Duck Shooter",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/47/38.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/47/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Fantasy Forest",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/48/icons/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/48/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Fishing Frenzy",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/49/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/49/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Flip Card Memory Test",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/8.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Roll This Ball 3",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/Roll-This-Ball.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/rollthisball3/gameCode/index.html"
+          },
+	  {
+            "category_name": "Shooting",
+            "category_id": 10,
+            "name": "Hold Position",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/52/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/52/"
+          },
+	  {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Jelly Break",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/53/21.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/53/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Jet Halloween",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/54/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/54/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "NinjaRun",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/56/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/56/"
+          },
+	  {
+            "category_name": "Shooting",
+            "category_id": 10,
+            "name": "Run Into Death",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/57/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/57/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Sheep OP",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/58/35.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/58/"
+          },
+	  {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Side Chain",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/59/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/59/"
+          },
+
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Tricky Crab",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/63/28.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/63/"
+          },
+
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Oh Hi",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/65/23.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/65/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "2048",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/66/meta/apple-touch-icon.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/66/"
+          },
+	  {
+            "category_name": "Jump & Run",
+            "category_id": 7,
+            "name": "Clumsy Bird",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/68/24.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/68/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Hextris",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/69/26.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/69/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Pacman",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/img/Icon-200x200.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Snake Attack",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/snake-attack/sprites/200x200.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/snake-attack/"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Katana",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/katana/sprites/200x200.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/katana/"
+          },
+	  {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Box Tower",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/Box-Tower/sprites/200x200.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/Box-Tower/"
+          }
+        ]
+      }
+    ]
+  }
+]
