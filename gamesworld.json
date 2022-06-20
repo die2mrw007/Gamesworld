@@ -22,7 +22,7 @@
           {
             "id": 4,
             "name": "Multi Player",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/icon-256.png"
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/55/icon-256.png"
           },
           {
             "id": 5,
@@ -32,7 +32,7 @@
           {
             "id": 6,
             "name": "Quiz & Brain Games",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/4.jpg"
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/21/4.jpg"
           },
           {
             "id": 7,
@@ -42,17 +42,17 @@
           {
             "id": 9,
             "name": "Arcade",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/43/icon-256.png"
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/43/icon-256.png"
           },
 	  {
             "id": 10,
             "name": "Shooting",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/31/icon-256.png"
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/31/icon-256.png"
           },
 	  {
             "id": 11,
             "name": "Sports",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/27/icone.jpg"
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/27/icone.jpg"
           }
         ],
         "games": [
@@ -94,7 +94,7 @@
             "category_name": "Racing",
             "category_id": 1,
             "name": "Fullspeed Racing",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/FullspeedRacing.png",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/FullspeedRacing.png",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/fullspeedracing1/gameCode/index.html"
           },
@@ -147,7 +147,7 @@
             "category_name": "Racing",
             "category_id": 1,
             "name": "Road Fury",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/roadfury.png",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/roadfury.png",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/roadfury1/gameCode/index.html"
           },
@@ -155,7 +155,7 @@
             "category_name": "Racing",
             "category_id": 1,
             "name": "Scooter Xtreme",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/scooter-xtreme-3d.jpg",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/scooter-xtreme-3d.jpg",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/scooterxtreme1/gameCode/index.html"
           },
@@ -472,9 +472,9 @@
             "category_name": "Multi Player",
             "category_id": 4,
             "name": "Ludo Multiplayer",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/55/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/55/"
           },
 	  {
             "category_name": "Multi Player",
@@ -496,7 +496,7 @@
             "category_name": "Multi Player",
             "category_id": 4,
             "name": "Carrom Clash",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/carromclash.png",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/carromclash.png",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/carromclash1/gameCode/index.html"
           },
@@ -512,7 +512,7 @@
             "category_name": "Multi Player",
             "category_id": 4,
             "name": "Snake And Ladders",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/snakesandladders.jpg",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/snakesandladders.jpg",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
           },
@@ -544,7 +544,7 @@
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Bolly Beat",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/bollybeat.jpg",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/bollybeat.jpg",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/bollybeat1/gameCode/index.html"
           },
@@ -568,7 +568,7 @@
             "category_name": "Puzzle",
             "category_id": 5,
             "name": "Mahjong Classic",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/mahjongclassic.png",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/mahjongclassic.png",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/@famobi_api2/mahjongclassic1/gameCode/index.html"
           },
@@ -624,7 +624,7 @@
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Word Search",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/wordsearch.png",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/wordsearch.png",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html"
           },
@@ -709,7 +709,7 @@
             "category_name": "Arcade",
             "category_id": 9,
             "name": "T-Rex",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/trex.jpg",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/trex.jpg",
             "rating": 4,
             "game_url": "https://livegame.show/games/trex_v3"
           },
@@ -733,7 +733,7 @@
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Rocket Road",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/RocketRoad.jpg",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/RocketRoad.jpg",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/aktestrocketroad1/gameCode/index.html"
           },
@@ -757,7 +757,7 @@
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Cake Slice Ninja",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/cakesliceninja.jpg",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/cakesliceninja.jpg",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/cakesliceupdate/gameCode/index.html"
           },
@@ -765,235 +765,235 @@
             "category_name": "Shooting",
             "category_id": 10,
             "name": "Archer Hero",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/1/11.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/1/11.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/1/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/1/"
           },
 	  {
             "category_name": "Sports",
             "category_id": 11,
             "name": "Dribble Kings",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/2/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/2/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/2/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/2/"
           },
 	  {
             "category_name": "Racing",
             "category_id": 1,
             "name": "Moto Beach Ride",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/3/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/3/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/3/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/3/"
           },
 	  {
             "category_name": "Racing",
             "category_id": 1,
             "name": "Super 8 Race",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/4/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/4/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/4/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/4/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Grave Drive",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/5/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/5/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/5/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/5/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Alien Way",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/6/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/6/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/6/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/6/"
           },
 	  {
             "category_name": "Shooting",
             "category_id": 10,
             "name": "Arnie Attack",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/7/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/7/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/7/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/7/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Green Chick Jump",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/8/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/8/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/8/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/8/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Koby Jump Escape",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/9/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/9/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/9/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/9/"
           },
 	  {
             "category_name": "Girls",
             "category_id": 3,
             "name": "Night Dress",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/10/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/10/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/10/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/10/"
           },
 	  {
             "category_name": "Shooting",
             "category_id": 10,
             "name": "Soldier Way",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/11/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/11/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/11/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/11/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Crocofinity",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/13/icons/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/13/icons/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/13/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/13/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Flight Sim",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/16/20.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/16/20.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/16/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/16/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Frogtastic",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/17/29.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/17/29.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/17/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/17/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Jump Ninja Hero",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/18/7.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/18/7.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/18/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/18/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Open Restaurant",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/20/2.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/20/2.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/20/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/20/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Quiz Game 2",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/4.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/21/4.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/21/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Tap Supermarket",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/23/10.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/23/10.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/23/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/23/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "The Sorcerer",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/24/40.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/24/40.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/24/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/24/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "TRZ Pop it",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/25/icons/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/25/icons/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/25/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/25/"
           },
 
 	  {
             "category_name": "Sports",
             "category_id": 11,
             "name": "Penalty Kicks",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/27/icone.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/27/icone.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/27/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/27/"
           },
 	  {
             "category_name": "Shooting",
             "category_id": 10,
             "name": "Zombie Shooter Classic",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/28/13.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/28/13.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/28/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/28/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Auto Platformer",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/29/36.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/29/36.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/29/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/29/"
           },
 
 	  {
             "category_name": "Shooting",
             "category_id": 10,
             "name": "City Hero",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/31/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/31/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/31/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/31/"
           },
 	  {
             "category_name": "Racing",
             "category_id": 1,
             "name": "Formula Drag",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/32/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/32/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/32/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/32/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Rob Runner",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/33/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/33/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/33/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/33/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Viking Way",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/34/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/34/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/34/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/34/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Wrecked",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/35/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/35/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/35/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/35/"
           },
 	  {
             "category_name": "Sports",
             "category_id": 11,
             "name": "Classic Bowling",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/36/25.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/36/25.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/36/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/36/"
           },
 	  {
             "category_name": "Sports",
@@ -1023,119 +1023,119 @@
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Coloring Book",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/37/SAM/coloringbook_texture_1.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/37/SAM/coloringbook_texture_1.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/37/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/37/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 10,
             "name": "Crazy Parking",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/38/30.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/38/30.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/38/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/38/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Danger Cliffs",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/39/3.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/39/3.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/39/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/39/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Tank Wars",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/40/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/40/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/40/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/40/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Machine Carnage",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/41/33.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/41/33.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/41/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/41/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Electro",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/42/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/42/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/42/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/42/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Zombie Shooter",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/43/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/43/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/43/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/43/"
           },
 	  {
             "category_name": "Sports",
             "category_id": 11,
             "name": "Volleymal",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/44/37.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/44/37.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/44/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/44/"
           },
 	  {
             "category_name": "Puzzle",
             "category_id": 5,
             "name": "Sweet World",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/45/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/45/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/45/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/45/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Spot the Differences",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/46/9.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/46/9.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/46/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/46/"
           },
 	  {
             "category_name": "Shooting",
             "category_id": 10,
             "name": "Duck Shooter",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/47/38.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/47/38.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/47/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/47/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Fantasy Forest",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/48/icons/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/48/icons/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/48/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/48/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Fishing Frenzy",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/49/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/49/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/49/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/49/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Flip Card Memory Test",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/8.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/50/8.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/50/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Roll This Ball 3",
-            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/Roll-This-Ball.jpg",
+            "thumbnail": "https://games.rizletmedia.com/thumbnails/Roll-This-Ball.jpg",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/rollthisball3/gameCode/index.html"
           },
@@ -1143,131 +1143,131 @@
             "category_name": "Shooting",
             "category_id": 10,
             "name": "Hold Position",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/52/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/52/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/52/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/52/"
           },
 	  {
             "category_name": "Puzzle",
             "category_id": 5,
             "name": "Jelly Break",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/53/21.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/53/21.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/53/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/53/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Jet Halloween",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/54/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/54/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/54/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/54/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "NinjaRun",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/56/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/56/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/56/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/56/"
           },
 	  {
             "category_name": "Shooting",
             "category_id": 10,
             "name": "Run Into Death",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/57/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/57/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/57/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/57/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Sheep OP",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/58/35.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/58/35.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/58/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/58/"
           },
 	  {
             "category_name": "Puzzle",
             "category_id": 5,
             "name": "Side Chain",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/59/icon-256.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/59/icon-256.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/59/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/59/"
           },
 
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Tricky Crab",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/63/28.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/63/28.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/63/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/63/"
           },
 
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Oh Hi",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/65/23.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/65/23.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/65/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/65/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "2048",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/66/meta/apple-touch-icon.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/66/meta/apple-touch-icon.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/66/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/66/"
           },
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
             "name": "Clumsy Bird",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/68/24.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/68/24.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/68/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/68/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Hextris",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/69/26.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/69/26.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/69/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/69/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Pacman",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/img/Icon-200x200.png",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/71/img/Icon-200x200.png",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/71/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Snake Attack",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/snake-attack/sprites/200x200.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/snake-attack/sprites/200x200.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/snake-attack/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/snake-attack/"
           },
 	  {
             "category_name": "Arcade",
             "category_id": 9,
             "name": "Katana",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/katana/sprites/200x200.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/katana/sprites/200x200.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/katana/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/katana/"
           },
 	  {
             "category_name": "Puzzle",
             "category_id": 5,
             "name": "Box Tower",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/Box-Tower/sprites/200x200.jpg",
+            "thumbnail": "https://games.rizletmedia.com/Games-by-Nitesh/Box-Tower/sprites/200x200.jpg",
             "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/Box-Tower/"
+            "game_url": "https://games.rizletmedia.com/Games-by-Nitesh/Box-Tower/"
           }
         ]
       }
